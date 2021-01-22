@@ -1,0 +1,55 @@
+body{
+  color: #fff;
+  background-color: #1b262c;
+}
+
+.container-fluid{
+  text-align: center;
+}
+
+.title{
+  height: 23.8674%;
+}
+
+h1{
+  padding: 3% 0 3% 0;
+  font-size: 5rem;
+}
+
+.middle{
+  height: 54.69%
+}
+
+.p1{
+  padding-right: 50px;
+  text-align: right;
+}
+
+.p2{
+  padding-left: 50px;
+  text-align: left;
+}
+
+img{
+  margin: 30px 15px 30px 15px;
+  width: 35%;
+  height: 75%;
+}
+
+.rollme{
+  border-radius: 10%;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.roll{
+  height: 4.33%;
+  padding: 3% 0 3% 0;
+}
+
+.bottom{
+  height: 12.77%
+}
+
+p{
+  padding: 4.5% 0 0.5% 0;
+}
